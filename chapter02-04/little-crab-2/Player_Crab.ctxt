@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player_Crab
+comment0.text=\r\n\ This\ class\ defines\ a\ Player_Crab.\ Crabs\ live\ on\ the\ beach.\ They\ like\ sand\ worms\ \r\n\ (very\ yummy,\ especially\ the\ green\ ones).\r\n\ \r\n\ Version\:\ 2\r\n\ \r\n\ In\ this\ version,\ the\ crab\ walks\ around\ the\ beach\ more\ or\ less\ randomly.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \r\n\ Act\ -\ do\ whatever\ the\ crab\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ \ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ rt()
+comment2.text=\r\n\ rt\ -\ Turn\ Right\ -\ Turn\ right\ if\ the\ "A"\ key\ is\ pressed\r\n
+comment3.params=
+comment3.target=void\ lt()
+comment3.text=\r\n\ lt\ -\ Turn\ Left\ -\ Turn\ Left\ if\ the\ "D"\ key\ is\ pressed\r\n
+comment4.params=
+comment4.target=void\ mf()
+comment4.text=\r\n\ mf\ -\ Move\ Forward\ -\ Move\ forward\ if\ the\ "W"\ key\ is\ pressed\r\n
+comment5.params=
+comment5.target=void\ eat()
+comment5.text=\ \r\n\ Eat\ -\ If\ a\ worm\ is\ found,\ eat\ it.\r\n
+numComments=6
