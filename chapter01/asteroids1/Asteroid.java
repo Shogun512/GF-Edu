@@ -9,7 +9,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
 public class Asteroid extends Mover
 {
     /** Size of this asteroid */
-    private int size;
+    private int size; 
 
     /** When the stability reaches 0 the asteroid will explode */
     private int stability;
