@@ -65,4 +65,10 @@ public class Player_Crab extends Animal
             eat(Worm.class);
         }
     }
+    /**
+   * SI - Sets image of Crab
+   */
+  {
+      
+    }
 }

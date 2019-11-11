@@ -55,6 +55,8 @@ public class Lobster extends Animal
                if ( canSee (Player_Crab.class) )
         {
             eat(Player_Crab.class);
+            Greenfoot.playSound("slurp.wav");
+            Greenfoot.stop();
         }
     }
 }
