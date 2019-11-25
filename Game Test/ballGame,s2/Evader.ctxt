@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Evader
+comment0.text=\r\n\ This\ class\ defines\ the\ Evader.\ The\ Evader\ is\ snake\ controlled\ by\ the\ player,\ that\ evades\ balls.\r\n\ \r\n\ @author\ n/a\ \r\n\ @version\:\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Move\ -\ defines\ the\ movements\ that\ the\ evader\ can\ make\ using\ the\ "A"\ &\ "D"Keys.\r\n
+numComments=2
